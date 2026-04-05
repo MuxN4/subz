@@ -38,6 +38,19 @@
             "backgroundColor": "#000000"
           }
         }
+      ],
+      [
+        "expo-font",
+        {
+          "fonts": [
+            "./assets/fonts/Urbanist-Regular.ttf",
+            "./assets/fonts/Urbanist-Medium.ttf",
+            "./assets/fonts/Urbanist-Bold.ttf",
+            "./assets/fonts/Urbanist-SemiBold.ttf",
+            "./assets/fonts/Urbanist-ExtraBold.ttf",
+            "./assets/fonts/Urbanist-Light.ttf"
+          ]
+        }
       ]
     ],
     "experiments": {
